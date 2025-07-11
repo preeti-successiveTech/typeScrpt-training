@@ -1,0 +1,87 @@
+"use client";
+import { Button } from "@mui/material";
+import Link from "next/link";
+
+export default function day2() {
+  return (
+    <div>
+      <h1>Assignment-2</h1>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-1"> Ques-1</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-2">Ques-2</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-3">Ques-3</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-4">Ques-4</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-5">Ques-5</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-6">Ques-6</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-7">Ques-7</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-8">Ques-8</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-9">Ques-9</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-10">Ques-10</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-11">Ques-11</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-12">Ques-12</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-13">Ques-13</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-14">Ques-14</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-15">Ques-15</Link>
+      </Button>
+      <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-16">Ques-16</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-17">Ques-17</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-18">Ques-18</Link>
+      </Button>
+       <Button variant="contained">
+        {" "}
+        <Link href="/day-2/Ques-19">Ques-19</Link>
+      </Button>
+    </div>
+  );
+}
